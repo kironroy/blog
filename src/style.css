@@ -19,6 +19,7 @@
   --clr-primary-400: hsla(169, 100%, 26%, 1);
   --clr-primary-500: hsla(169, 100%, 16%, 1);
   --feature: #0275d8;
+  --button-hover-color: #4caf50;
   --most-recent: #02d8d0;
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
@@ -392,8 +393,8 @@ section,
 }
 .btn--primary:hover,
 .btn--primary:focus {
-  background: var(--clr-primary-500);
-  border-color: var(--clr-primary-500);
+  background: var(--button-hover-color);
+  border-color: var(--button-hover-color);
 }
 
 .btn--neutral {
@@ -419,4 +420,5 @@ section,
 .btn--neutral:focus {
   color: var(--clr-neutral-100);
   background-color: var(--clr-neutral-900);
+  border: solid var(--clr-neutral-900);
 }
