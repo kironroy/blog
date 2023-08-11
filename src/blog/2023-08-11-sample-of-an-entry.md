@@ -5,6 +5,7 @@ author: Kiron Roy
 date: 2023-08-11T21:14:45.616Z
 tags:
   - post
+  - featured
 image: /assets/blog/recipes_web.webp
 imageAlt: "Aspragus "
 ---
