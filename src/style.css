@@ -21,6 +21,7 @@
   --feature: #0275d8;
   --button-hover-color: #4caf50;
   --most-recent: #02d8d0;
+  --footer-nav: #0069ff;
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -205,6 +206,14 @@ section,
   margin-top: -20px;
 }
 
+.k-logo-footer {
+  width: 50px;
+  height: 50px;
+  margin-top: -20px;
+  text-align: center;
+  margin: auto;
+}
+
 .page-header {
   padding: 2em 0;
 }
@@ -229,7 +238,7 @@ section,
 
 .nav-list a:focus,
 .nav-list a:hover {
-  color: var(--clr-primary-400);
+  color: var(--footer-nav);
   text-decoration: underline;
 }
 
@@ -239,9 +248,9 @@ section,
 
 .site-footer {
   --logo-color: currentColor;
-  padding: 2em 0;
+  padding: 1em 0;
   color: var(--clr-neutral-100);
-  background-color: #0069ff;
+  background-color: var(--footer-nav);
   text-align: center;
 }
 
