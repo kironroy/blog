@@ -192,12 +192,18 @@ section,
 
 .section-title {
   font-size: var(--fs-600);
-  color: #d8020a;
+  color: #8a300b;
 }
 
 /* //////////////////////
   Header
   /////////////////////// */
+
+.k-logo {
+  width: 70px;
+  height: 70px;
+  margin-top: -20px;
+}
 
 .page-header {
   padding: 2em 0;
@@ -218,6 +224,7 @@ section,
   text-decoration: none;
   font-family: "Manrope", sans-serif;
   font-weight: 700;
+  font-size: 22px;
 }
 
 .nav-list a:focus,
