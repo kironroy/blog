@@ -24,6 +24,7 @@
   --button-hover-color: #4caf50;
   --most-recent: #02d8d0;
   --footer-nav: #0069ff;
+  --section-titles: #632208;
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -190,7 +191,7 @@ section,
 
 .article-title,
 .section-title {
-  color: var(--clr-primary-500);
+  color: var(--section-titles);
 }
 
 .article-title {
@@ -199,7 +200,7 @@ section,
 
 .section-title {
   font-size: var(--fs-800);
-  color: #632208;
+  color: var(--section-titles);
 }
 
 /* //////////////////////
@@ -437,7 +438,6 @@ section,
   font-family: "Manrope", sans-serif;
   font-weight: 700;
   box-shadow: 0 8px 9px -9px #8b8b8bcc;
-
 }
 
 .btn--neutral:hover,
