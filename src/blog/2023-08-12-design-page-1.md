@@ -12,9 +12,9 @@ D﻿esign page
 
 <!--StartFragment-->
 
-```
+````
 'use strict';
-
+```javascript```
 console.log(
   '%c Welcome to math.js! ',
   'color: #fff; font-weight: bold; font-family: Arial; background-color: blue; font-size: 24px'
@@ -230,6 +230,6 @@ function topFunction() {
 }
 
 topFunction();
-```
+````
 
 <!--EndFragment-->
