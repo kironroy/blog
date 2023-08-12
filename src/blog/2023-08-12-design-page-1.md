@@ -8,12 +8,6 @@ tags:
 image: /assets/blog/design.png
 imageAlt: Github Wiki mobile view
 ---
-D﻿esign page
+[Design page](https://github.com/kironroy/kironroy.github.io/wiki/Design)
 
-<!--StartFragment-->
-
-```javascript
-
-```
-
-<!--EndFragment-->
+A﻿ design page.
