@@ -7,7 +7,7 @@ tags:
   - post
   - featured
 image: /assets/blog/fivehundred.png
-imageAlt: 500px mobile site
+imageAlt: 500px mobile view
 ---
 [5﻿00px](https://500px.com/p/kironroynet?view=photos)
 
