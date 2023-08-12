@@ -31,6 +31,10 @@
   --clr-neutral-900: #222;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 @media (min-width: 35em) {
   :root {
     --fs-300: 1rem;
