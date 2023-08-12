@@ -1,6 +1,6 @@
 ---
 title: "Sunset Raga "
-description: Flyer
+description: A webpage for a live musical event.
 author: Kiron Roy
 date: 2023-07-11T02:09:10.945Z
 tags:
