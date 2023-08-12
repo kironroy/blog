@@ -12,7 +12,7 @@ imageAlt: Food, Grocery Items mobile view (dark mode enabled)
 
 <!--StartFragment-->
 
-Created a dynamic grocery list. Type a query and tap. the correct image will appear.
+Created a dynamic grocery list. Type a query and then click/tap. the correct image will appear.
 
 D﻿ark and Light mode are available.
 
