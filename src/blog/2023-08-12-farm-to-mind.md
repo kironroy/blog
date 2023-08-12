@@ -2,7 +2,7 @@
 title: "Farm to Mind "
 description: Company website.
 author: Kiron Roy
-date: 2023-08-12T01:34:27.638Z
+date: 2023-08-12T06:33:45.555Z
 tags:
   - post
   - featured
