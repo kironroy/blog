@@ -166,7 +166,7 @@ section,
 }
 
 #topBtn {
-  font-family: monospace;
+  font-family: var(--ff-heading);
   display: none;
   position: fixed;
   font-size: 36px;
