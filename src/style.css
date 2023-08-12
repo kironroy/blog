@@ -18,11 +18,12 @@
   --clr-primary-300: hsla(169, 100%, 39%, 1);
   --clr-primary-400: hsla(169, 100%, 26%, 1);
   --clr-primary-500: hsla(169, 100%, 16%, 1);
-  --feature: #0275d8;
+  --feature: #55c2da;
   --button-hover-color: #4caf50;
+  --top-btn:#dab055;
   --most-recent: #323232;
   --footer-nav: #02d8d0;
-  --section-titles: #632208;
+  --section-titles: #843a51;
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -179,8 +180,8 @@ section,
   z-index: 99;
   border: none;
   outline: none;
-  background-color: var(--feature);
-  color: #fff;
+  background-color: var(--top-btn);
+  color: #222;
   opacity: 80%;
   cursor: pointer;
   padding-top: 5px;
@@ -430,7 +431,7 @@ section,
   border-radius: 9px;
   border: solid var(--feature);
   background-color: var(--feature);
-  color: #fff;
+  color: var(--section-titles);
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -452,9 +453,9 @@ section,
 
 .btn--neutral {
   border-radius: 9px;
-  border: solid var(--most-recent);
-  background-color: var(--most-recent);
-  color: #fff;
+  border: solid var(--feature);
+  background-color: #fff;
+  color: var(--section-titles);
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
