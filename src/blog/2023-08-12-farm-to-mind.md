@@ -7,7 +7,7 @@ tags:
   - post
   - featured
 image: /assets/blog/farm.jpg
-imageAlt: farm to mind mobile view
+imageAlt: Farm to Mind mobile view
 ---
 <!--StartFragment-->
 
