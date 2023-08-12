@@ -23,7 +23,8 @@ D﻿ark and Light mode are available.
 * *[Butter, Irish](https://kironroy.dev/food_items/food_groceries#butter)*
 * *[Mustard, Condiment, Ralph's](https://kironroy.dev/food_items/food_groceries#mustard)*
 * *[Sweet Peppers, Jalapenos, Trader Joe's](https://kironroy.dev/food_items/food_groceries#sweet_peppers)*
-* *[Ginger Ale, Ralph'](https://kironroy.dev/food_items/food_groceries#ginger_ale)*
+
+
 
   .﻿..
 
