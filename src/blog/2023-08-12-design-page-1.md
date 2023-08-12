@@ -9,3 +9,13 @@ image: /assets/blog/design.png
 imageAlt: Github Wiki mobile view
 ---
 D﻿esign page
+
+
+
+<!--StartFragment-->
+
+```
+
+```
+
+<!--EndFragment-->
