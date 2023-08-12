@@ -412,7 +412,6 @@ section,
   text-transform: capitalize;
   font-family: "Manrope", sans-serif;
   font-weight: 700;
-  box-shadow: 0 8px 9px -9px #8b8b8bcc;
 }
 .btn--primary:hover,
 .btn--primary:focus {
@@ -437,6 +436,8 @@ section,
   text-transform: capitalize;
   font-family: "Manrope", sans-serif;
   font-weight: 700;
+  box-shadow: 0 8px 9px -9px #8b8b8bcc;
+
 }
 
 .btn--neutral:hover,
