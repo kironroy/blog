@@ -19,8 +19,8 @@
   --clr-primary-400: hsla(169, 100%, 26%, 1);
   --clr-primary-500: hsla(169, 100%, 16%, 1);
   --feature: #55c2da;
-  --button-hover-color: #4caf50;
-  --top-btn: #dab055;
+  --button-hover-color: #dab055;
+  --top-btn: #da5580;
   --most-recent: #323232;
   --footer-nav: #02d8d0;
   --section-titles: #843a51;
@@ -181,7 +181,7 @@ section,
   border: none;
   outline: none;
   background-color: var(--top-btn);
-  color: #222;
+  color: var(--clr-neutral-100);
   opacity: 80%;
   cursor: pointer;
   padding-top: 5px;
@@ -211,7 +211,7 @@ section,
   text-align: center;
 }
 
-/* typgraphy */
+/* typography */
 
 .article-title,
 .section-title {
@@ -420,13 +420,6 @@ section,
   outline-offset: 0.25em;
 }
 
-/* .btn--primary {
-  background: var(--clr-primary-400);
-  color: var(--clr-neutral-100);
-  font-weight: var(--fw-700);
-  border: 2px solid var(--clr-primary-400);
-} */
-
 .btn--primary {
   border-radius: 9px;
   border: solid var(--feature);
@@ -449,12 +442,13 @@ section,
 .btn--primary:focus {
   background: var(--button-hover-color);
   border-color: var(--button-hover-color);
+  color: var(--clr-neutral-100);
 }
 
 .btn--neutral {
   border-radius: 9px;
   border: solid var(--feature);
-  background-color: #fff;
+  background-color: var(--clr-neutral-100);
   color: var(--section-titles);
   padding: 15px 32px;
   text-align: center;
@@ -473,6 +467,6 @@ section,
 .btn--neutral:hover,
 .btn--neutral:focus {
   color: var(--clr-neutral-100);
-  background-color: var(--clr-neutral-900);
-  border: solid var(--clr-neutral-900);
+  background-color: var(--button-hover-color);
+  border: solid var(--button-hover-color);
 }
