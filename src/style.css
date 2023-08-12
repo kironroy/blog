@@ -362,7 +362,7 @@ section,
 }
 .snippet__meta {
   grid-area: meta;
-  color: var(--clr-neutral-300);
+  color: #222;
 }
 
 .snippet__meta span {
