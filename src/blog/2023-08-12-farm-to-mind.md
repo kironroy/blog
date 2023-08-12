@@ -17,7 +17,7 @@ imageAlt: farm to mind mobile view
 
 <!--EndFragment-->
 
-d﻿d
+
 
 Prabhakar Prasad grew up in a small town in Bihar, India and moved to the USA in 2011.
 
