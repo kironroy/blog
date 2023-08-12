@@ -17,6 +17,8 @@ imageAlt: farm to mind mobile view
 
 <!--EndFragment-->
 
+d﻿d
+
 Prabhakar Prasad grew up in a small town in Bihar, India and moved to the USA in 2011.
 
 He has a bachelor's degree in computer science. As well as a master's degree in business administration. He is fortunate to have successful careers. His roles include: software engineer, model, project manager, sales director, and an actor.
