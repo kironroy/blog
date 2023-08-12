@@ -7,9 +7,13 @@
     <title>{{ title}}</title>
     <link rel="stylesheet" href="/style.css">
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script defer src="/admin/kironblog.js"></script>
 </head>
 
 <body>
+    <button id="topBtn" onclick="topFunction()" title="Go to top">
+        <strong>&#8593;</strong>
+    </button>
     {% include 'header.njk'%}
     <main>
         {{content | safe}}
