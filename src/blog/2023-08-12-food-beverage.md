@@ -6,7 +6,7 @@ date: 2023-08-12T04:34:06.387Z
 tags:
   - post
 image: /assets/blog/fooddrkmode.png
-imageAlt: Food, Grocery Items mobile view (dark mode enabled)
+imageAlt: Food, Grocery Items mobile view (shown in dark mode)
 ---
 [Food, Grocery Items](https://kironroy.dev/food_items/food_groceries)
 
