@@ -6,8 +6,10 @@
   --fs-500: 1.375rem;
   --fs-600: 1.875rem;
   --fs-700: 2rem;
+  --fs-800: 2.5rem;
 
-  --ff-body: 'Georgia', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  --ff-body: "Georgia", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
   --ff-heading: "Manrope", serif;
 
   --fw-400: 400;
@@ -196,8 +198,8 @@ section,
 }
 
 .section-title {
-  font-size: var(--fs-600);
-  color: #8a300b;
+  font-size: var(--fs-800);
+  color: #632208;
 }
 
 /* //////////////////////
@@ -402,7 +404,7 @@ section,
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 10px;
   margin-top: 10px;
   cursor: pointer;
@@ -426,7 +428,7 @@ section,
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 10px;
   margin-top: 10px;
   cursor: pointer;
