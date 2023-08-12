@@ -27,4 +27,52 @@ D﻿ark and Light mode are available.
 
   .﻿..
 
+  > ### J﻿avaScript Code: 
+
+  `'use strict';
+  const element = document.body;`
+
+  `function searchRitaList() {
+    const input = document.getElementById('ritaInput');
+    const filter = input.value.toUpperCase();
+    const ul = document.getElementById('ritaList');
+    const li = ul.getElementsByTagName('li');
+    for (let i = 0; i < li.length; i++) {
+      const a = li[i].getElementsByTagName('a')[0];
+      const textValue = a.textContent || a.innerText;
+      textValue.toUpperCase().indexOf(filter) > -1
+        ? (li[i].style.display = '')
+        : (li[i].style.display = 'none');
+    }
+  }`
+
+  `const goToTopButton = document.getElementById('topBtn');`
+
+  `window.onscroll = () => scrollFunction();`
+
+  `const scrollFunction = () =>
+    document.body.scrollTop > 20 || document.documentElement.scrollTop > 20
+      ? (goToTopButton.style.display = 'block')
+      : (goToTopButton.style.display = 'none');`
+
+  `function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }`
+
+  `document
+    .getElementById('buttonInput')
+    .addEventListener('click', function (event) {
+      event.target.value === 'Dark Mode'
+        ? (event.target.value = 'Light Mode')
+        : (event.target.value = 'Dark Mode');
+    });`
+
+  `const darkOrLightMode = () => element.classList.toggle('dark-mode');`
+
+  `const imagesCount = () =>
+    (document.getElementById('image-count').innerHTML = Number of food items: ${
+      document.images.length - 1
+    });`
+
 <!--EndFragment-->
