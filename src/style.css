@@ -262,7 +262,7 @@ section,
 
 .nav-list a:focus,
 .nav-list a:hover {
-  color: var(--footer-nav);
+  color: var(--feature);
   text-decoration: underline;
 }
 
