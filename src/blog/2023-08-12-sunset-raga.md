@@ -7,7 +7,7 @@ tags:
   - post
   - featured
 image: /assets/blog/sunset.png
-imageAlt: online flyer
+imageAlt: Sunset Raga mobile view
 ---
 <!--StartFragment-->
 
