@@ -12,7 +12,7 @@ D﻿esign page
 
 <!--StartFragment-->
 
-````
+````javascript
 'use strict';
 ```javascript```
 console.log(
