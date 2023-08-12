@@ -7,7 +7,7 @@
   --fs-600: 1.875rem;
   --fs-700: 2rem;
 
-  --ff-body: "Roboto", sans-serif;
+  --ff-body: 'Georgia', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   --ff-heading: "Manrope", serif;
 
   --fw-400: 400;
@@ -63,6 +63,10 @@ blockquote,
 dl,
 dd {
   margin: 0;
+}
+
+p {
+  font-size: 20px;
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
@@ -398,7 +402,7 @@ section,
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 10px;
   margin-top: 10px;
   cursor: pointer;
@@ -422,7 +426,7 @@ section,
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 10px;
   margin-top: 10px;
   cursor: pointer;
