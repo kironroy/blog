@@ -2,7 +2,7 @@
 title: Food & Beverage
 description: A dynamic grocery list.
 author: Kiron Roy
-date: 2023-08-12T05:50:00.000Z
+date: 2023-08-12T06:02:44.394Z
 tags:
   - post
 image: /assets/blog/fooddrkmode.png
