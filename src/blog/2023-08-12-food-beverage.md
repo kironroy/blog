@@ -1,5 +1,5 @@
 ---
-title: Food & Beverage webpage.
+title: Food & Beverage
 description: A dynamic grocery list.
 author: Kiron Roy
 date: 2023-08-12T04:34:06.387Z
