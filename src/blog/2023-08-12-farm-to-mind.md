@@ -1,6 +1,6 @@
 ---
 title: "Farm to Mind "
-description: Company website.
+description: The Ayurveda food experience.
 author: Kiron Roy
 date: 2023-08-10T06:33:45.555Z
 tags:
