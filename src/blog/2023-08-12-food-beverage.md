@@ -18,7 +18,7 @@ Dark and Light mode are available.
 
 <!--EndFragment-->
 
-*Below is a few of the items:*
+*Few of the items:*
 
 * *[Butter, Irish](https://kironroy.dev/food_items/food_groceries#butter)*
 * *[Mustard, Condiment, Ralph's](https://kironroy.dev/food_items/food_groceries#mustard)*
