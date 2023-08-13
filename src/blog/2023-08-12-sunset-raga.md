@@ -21,7 +21,11 @@ L﻿ive musical event.
 
 > *Raga, is the mother of sound healing.*
 >
+>
+>
 > *Heal your body, calm your mind, and connect with your true self.*
+>
+>
 >
 > *Join us and dive into the ocean of Vedic sounds and vibrations.*
 
