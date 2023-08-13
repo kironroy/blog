@@ -12,19 +12,17 @@ imageAlt: Food, Grocery Items mobile view (shown in dark mode)
 
 <!--StartFragment-->
 
-Created a dynamic grocery list. Type a query and then click/tap. the correct image will appear.
+Dynamic grocery list. Type a query and then click/tap. the correct image will appear.  
 
-D﻿ark and Light mode are available.
+Dark and Light mode are available.
 
 <!--EndFragment-->
 
-*B﻿elow is a few of the items:*
+*Below is a few of the items:*
 
 * *[Butter, Irish](https://kironroy.dev/food_items/food_groceries#butter)*
 * *[Mustard, Condiment, Ralph's](https://kironroy.dev/food_items/food_groceries#mustard)*
 * *[Sweet Peppers, Jalapenos, Trader Joe's](https://kironroy.dev/food_items/food_groceries#sweet_peppers)*
-
-
 
   .﻿..
 
