@@ -5,7 +5,7 @@ author: Kiron Roy
 date: 2023-08-09T06:13:16.027Z
 tags:
   - post
-image: /assets/blog/fooddrkmode.png
+image: /assets/blog/food3.png
 imageAlt: Food, Grocery Items mobile view (shown in dark mode)
 ---
 [Food, Grocery Items](https://kironroy.dev/food_items/food_groceries)
