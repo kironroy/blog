@@ -6,7 +6,7 @@ date: 2023-08-10T06:33:45.555Z
 tags:
   - post
   - featured
-image: /assets/blog/venice.webp
+image: /assets/blog/farm.png
 imageAlt: Farm to Mind mobile view
 ---
 <!--StartFragment-->
