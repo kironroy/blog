@@ -5,7 +5,6 @@ author: Kiron Roy
 date: 2008-07-21T05:58:19.896Z
 tags:
   - post
-  - featured
 image: /assets/blog/fivehundred.png
 imageAlt: 500px mobile view
 ---
