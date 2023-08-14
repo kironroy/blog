@@ -6,7 +6,7 @@ date: 2023-07-11T02:09:10.945Z
 tags:
   - post
   - featured
-image: /assets/blog/sunset.png
+image: /assets/blog/vini.png
 imageAlt: Sunset Raga mobile view
 ---
 <!--StartFragment-->
