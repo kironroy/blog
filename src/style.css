@@ -6,9 +6,9 @@
   --fs-700: 2rem;
   --fs-800: 2.5rem;
 
-  --ff-body: "Georgia", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+  --ff-body: 'Georgia', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans',
     Arial, sans-serif;
-  --ff-heading: "Manrope", serif;
+  --ff-heading: 'Manrope', serif;
 
   --fw-400: 400;
   --fw-700: 700;
@@ -76,8 +76,8 @@ p {
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
-ul:where([role="list"]),
-ol:where([role="list"]) {
+ul:where([role='list']),
+ol:where([role='list']) {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -232,11 +232,11 @@ section,
   /////////////////////// */
 
 .k-logo {
-  width: 60px;
-  height: 60px;
-  margin-top: -20px;
+  width: 50px;
+  height: 50px;
+  margin-top: -10px;
   border-color: #55c2da;
-  border-radius: 12px;
+  border-radius: 9px;
 }
 
 .k-logo-footer {
@@ -261,7 +261,7 @@ section,
 .nav-list a {
   color: var(--clr-neutral-900);
   text-decoration: none;
-  font-family: "Manrope", sans-serif;
+  font-family: 'Manrope', sans-serif;
   font-weight: 700;
   font-size: 22px;
 }
@@ -349,11 +349,11 @@ section,
   display: grid;
   gap: 1em;
   grid-template-areas:
-    "image"
-    "title"
-    "meta"
-    "body"
-    "button";
+    'image'
+    'title'
+    'meta'
+    'body'
+    'button';
 }
 
 .snippet__image {
@@ -396,10 +396,10 @@ section,
 @media (min-width: 45em) {
   .snippet {
     grid-template-areas:
-      "title image"
-      "meta image"
-      "body image"
-      "button image";
+      'title image'
+      'meta image'
+      'body image'
+      'button image';
     grid-column-gap: 4em;
     grid-template-columns: 1fr 40%;
     grid-template-rows: min-content min-content min-content 1fr;
@@ -437,7 +437,7 @@ section,
   cursor: pointer;
   letter-spacing: 0.3px;
   text-transform: capitalize;
-  font-family: "Manrope", sans-serif;
+  font-family: 'Manrope', sans-serif;
   font-weight: 700;
 }
 .btn--primary:hover,
@@ -462,7 +462,7 @@ section,
   cursor: pointer;
   letter-spacing: 0.3px;
   text-transform: capitalize;
-  font-family: "Manrope", sans-serif;
+  font-family: 'Manrope', sans-serif;
   font-weight: 700;
 }
 
