@@ -423,7 +423,7 @@ section,
 }
 
 .btn--primary {
-  border-radius: 9px;
+  border-radius: 40px;
   border: solid var(--feature);
   background-color: var(--feature);
   color: var(--section-titles);
