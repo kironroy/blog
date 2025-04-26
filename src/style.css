@@ -71,6 +71,7 @@ blockquote,
 dl,
 dd {
   margin: 0;
+  font-weight: 400;
 }
 
 p {
@@ -450,7 +451,7 @@ section,
 }
 
 .btn--neutral {
-  border-radius: 40px;
+  border-radius: 5px;
   border: solid var(--feature);
   background-color: var(--clr-neutral-100);
   color: var(--section-titles);
