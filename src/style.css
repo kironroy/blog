@@ -275,7 +275,7 @@ section,
 
 .nav-list a:focus,
 .nav-list a:hover {
-  color: var(--button-hover-color)
+  color: var(--button-hover-color);
   text-decoration: underline;
 }
 
