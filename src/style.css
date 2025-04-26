@@ -110,6 +110,7 @@ img,
 picture {
   max-width: 100%;
   display: block;
+  box-shadow: 0 8px 9px -9px #838383cc;
 }
 
 /* Inherit fonts for inputs and buttons */
@@ -365,7 +366,8 @@ section,
   grid-area: image;
   width: 100%;
   object-fit: cover;
-  border-radius: 9px;
+  box-shadow: 0 8px 9px -9px #838383cc;
+  border: #d6d6d6 solid 0.5px;
 }
 .snippet__title {
   grid-area: title;
