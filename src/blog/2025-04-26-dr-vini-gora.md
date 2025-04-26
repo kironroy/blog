@@ -11,7 +11,7 @@ imageAlt: Screenshot of official website.
 ---
 <!--StartFragment-->
 
-Dr. Vini Gora, a New Delhi-born vocalist now residing in Los Angeles, is a classically trained singer with a PhD in Hindustani classical music. She is a disciple of Pt. Balmiki Sharma \[disciple of Ustad Ghulam Hussain Khan of Rampur Sehaswan Gharana and Pt. Kundan Lal Sharma Bhoot of Patiala Gharana].
+[Dr. Vini Gora](https://vinigora.netlify.app/), a New Delhi-born vocalist now residing in Los Angeles, is a classically trained singer with a PhD in Hindustani classical music. She is a disciple of Pt. Balmiki Sharma \[disciple of Ustad Ghulam Hussain Khan of Rampur Sehaswan Gharana and Pt. Kundan Lal Sharma Bhoot of Patiala Gharana].
 
 Her professional musical journey began during her Masters when she recorded two songs for the devotional Marathi album "Aaratya". This opportunity paved the way for her to lend her voice to numerous albums.
 
