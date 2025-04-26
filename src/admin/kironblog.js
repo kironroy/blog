@@ -13,4 +13,3 @@ const footerDate = new Intl.DateTimeFormat('en-US', {
 
 document.getElementById('footer-date').innerHTML = footerDate;
 
-topFunction();
