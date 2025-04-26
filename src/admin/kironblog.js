@@ -14,6 +14,8 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 
+let today = new Date();
+
 const footerDate = new Intl.DateTimeFormat('en-US', {
   weekday: 'long',
   month: 'long',
