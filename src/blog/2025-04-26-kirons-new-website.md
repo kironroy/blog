@@ -9,4 +9,4 @@ tags:
 image: /assets/blog/kiron_react.png
 imageAlt: Screen shot of website
 ---
-I﻿ created a new single page portfolio in *React. Microsoft's CoPilot* helped.
+I﻿ created a[ new single page portfolio](https://kironroydev.netlify.app/) in *React. Microsoft's CoPilot* helped.
