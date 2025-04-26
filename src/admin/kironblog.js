@@ -1,19 +1,5 @@
 'use strict';
 
-const goToTopButton = document.getElementById('topBtn');
-
-window.onscroll = () => scrollFunction();
-
-const scrollFunction = () =>
-  document.body.scrollTop > 20 || document.documentElement.scrollTop > 20
-    ? (goToTopButton.style.display = 'block')
-    : (goToTopButton.style.display = 'none');
-
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-
 let today = new Date();
 
 const footerDate = new Intl.DateTimeFormat('en-US', {
