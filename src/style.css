@@ -444,7 +444,7 @@ section,
   cursor: pointer;
   letter-spacing: 0.3px;
   text-transform: capitalize;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Avenir LT Pro', sans-serif;
   font-weight: 700;
 }
 .btn--primary:hover,
