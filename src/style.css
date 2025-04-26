@@ -20,12 +20,13 @@
   --clr-primary-300: hsla(169, 100%, 39%, 1);
   --clr-primary-400: hsla(169, 100%, 26%, 1);
   --clr-primary-500: hsla(169, 100%, 16%, 1);
-  --feature: #55c2da;
+  --feature: #000a64;
   --button-hover-color: #dab055;
   --top-btn: #da5580;
   --most-recent: #323232;
   --footer-nav: #02d8d0;
-  --section-titles: #843a51;
+  --section-titles: #333;
+  --section-btn: #ffffff;
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -71,7 +72,7 @@ blockquote,
 dl,
 dd {
   margin: 0;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 p {
@@ -429,7 +430,7 @@ section,
   border-radius: 5px;
   border: solid var(--feature);
   background-color: var(--feature);
-  color: var(--section-titles);
+  color: var(--section-btn);
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
