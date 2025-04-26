@@ -1,6 +1,6 @@
 ---
 title: Trees Website
-description: Dynamic website about trees
+description: Dynamic website about trees.
 author: Kiron Roy
 date: 2025-04-26T23:23:08.219Z
 tags:
