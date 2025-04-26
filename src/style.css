@@ -149,7 +149,7 @@ h1,
 h2,
 h3 {
   font-family: var(--ff-heading);
-  font-weight: var(--fw-400);
+  font-weight: 700;
   line-height: 1.1;
 }
 
