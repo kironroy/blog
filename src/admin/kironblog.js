@@ -14,12 +14,14 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 
-const footerDate = new Date().toLocaleDateString('en-us', {
+const footerDate = new Intl.DateTimeFormat('en-US', {
   weekday: 'long',
-  year: 'numeric',
-  month: 'short',
+  month: 'long',
   day: 'numeric',
-});
+  year: 'numeric',
+})
+  .format(today)
+  .replace(',', ''); // Removes comma from the formatted string
 
 document.getElementById('footer-date').innerHTML = footerDate;
 
