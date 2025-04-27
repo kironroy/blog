@@ -1,5 +1,5 @@
 ---
-title: "Breakfast with Senecia: A Stoic Guide to the Art of Living."
+title: Breakfast with Senecia
 description: Book summary.
 author: Kiron Roy
 date: 2025-04-28T15:35:00.000Z
