@@ -1,6 +1,6 @@
 ---
 title: Nash Equilibrium
-description: Article
+description: An Article.
 author: Kiron Roy
 date: 2025-04-28T00:28:18.367Z
 tags:
