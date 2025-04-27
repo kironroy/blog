@@ -2,7 +2,7 @@
 title: "Breakfast with Senecia: A Stoic Guide to the Art of Living."
 description: Book summary.
 author: Kiron Roy
-date: 2025-04-27T15:35:00.000Z
+date: 2025-04-28T15:35:00.000Z
 tags:
   - post
 image: /assets/blog/break_twitter.png
