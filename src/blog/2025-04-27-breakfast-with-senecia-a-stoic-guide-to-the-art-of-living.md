@@ -6,7 +6,7 @@ date: 2025-04-28T15:35:00.000Z
 tags:
   - post
 image: /assets/blog/break_twitter.png
-imageAlt: Screenshot of trees website.
+imageAlt: Book image
 ---
 <!--StartFragment-->
 
