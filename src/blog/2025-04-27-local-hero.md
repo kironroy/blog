@@ -1,6 +1,6 @@
 ---
 title: Local Hero
-description: Pennan, Scotland
+description: Pennan, Scotland.
 author: Kiron Roy
 date: 2025-05-05T02:02:30.334Z
 tags:
