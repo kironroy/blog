@@ -16,7 +16,7 @@ imageAlt: Scales
 
 * [*A Beautiful Mind* Creating 'Governing Dynamics' scene](https://www.youtube.com/watch?v=5ITWl7CBzSA&ab_channel=ImLaura321)
 
-## california Wild Fires
+## California Wild Fires
 
 It's intriguing how game theory unfolds in real-world crises like the California wildfires. The Nash Equilibrium, at its essence, explores how individuals or entities make decisions when their choices are interdependent, each one affecting the others.
 
