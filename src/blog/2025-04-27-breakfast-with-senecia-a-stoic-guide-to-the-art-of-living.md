@@ -1,5 +1,5 @@
 ---
-title: Breakfast with Senecia
+title: Breakfast with Seneca
 description: Book summary.
 author: Kiron Roy
 date: 2025-04-28T15:35:00.000Z
@@ -12,7 +12,7 @@ imageAlt: Book image
 
 # Stoicism
 
-## *Breakfast with Senecia:  A Stoic Guide to the Art of Living* By David Fideler
+## *Breakfast with Seneca:  A Stoic Guide to the Art of Living* By David Fideler
 
 - - -
 
