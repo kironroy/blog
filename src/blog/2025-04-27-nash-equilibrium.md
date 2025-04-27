@@ -6,7 +6,7 @@ date: 2025-04-28T00:28:18.367Z
 tags:
   - post
 image: /assets/blog/nashtwitter.png
-imageAlt: Screenshot of trees website.
+imageAlt: Scales
 ---
 <!--StartFragment-->
 
