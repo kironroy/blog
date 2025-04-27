@@ -2,7 +2,7 @@
 title: Nash Equilibrium
 description: Article
 author: Kiron Roy
-date: 2025-04-27T00:28:18.367Z
+date: 2025-04-28T00:28:18.367Z
 tags:
   - post
 image: /assets/blog/nashtwitter.png
