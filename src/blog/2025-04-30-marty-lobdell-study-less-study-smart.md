@@ -1,5 +1,5 @@
 ---
-title: Marty Lobdell. Study less, study smart.
+title: Marty Lobdell. Study less, study smart
 description: "Effectice study tips. "
 author: Kiron Roy
 date: 2025-05-05T16:32:47.582Z
