@@ -1,6 +1,6 @@
 ---
 title: The Origin of the Elements
-description: The periodic table, Chemistry, physics, astronomy.
+description: The periodic table, chemistry, physics, astronomy.
 author: Kiron Roy
 date: 2025-05-09T14:22:04.622Z
 tags:
