@@ -1,6 +1,6 @@
 ---
 title: " How the 2008 Financial Crisis Still Affects You"
-description: "2008 Financial Crisis "
+description: 2008 Financial Crisis .
 author: Kiron Roy
 date: 2025-05-10T23:47:39.574Z
 tags:
