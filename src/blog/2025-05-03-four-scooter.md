@@ -8,4 +8,4 @@ tags:
 image: /assets/blog/img_1536.webp
 imageAlt: Scooters.
 ---
-Felt like drawing this scooter I saw in Sedona, Arizona.
+Drawing of a scooter x 4.
