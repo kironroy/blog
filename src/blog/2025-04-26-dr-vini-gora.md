@@ -5,7 +5,6 @@ author: Kiron Roy
 date: 2025-04-26T22:19:47.981Z
 tags:
   - post
-  - featured
 image: /assets/blog/vini.png
 imageAlt: Screenshot of official website.
 ---
