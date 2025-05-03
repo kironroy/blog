@@ -5,6 +5,7 @@ author: Kiron Roy
 date: 2025-05-09T16:11:26.220Z
 tags:
   - post
+  - featured
 image: https://i.ytimg.com/vi/17jymDn0W6U/maxresdefault.jpg?sqp=-oaymwEmCIAK%E2%80%A68AEB-AHWBIAC4AOKAgwIABABGEggSyhlMA8=&rs=AOn4CLC5bJ-DU11EX8bzX2A4fal37J293w
 imageAlt: Earth
 ---
