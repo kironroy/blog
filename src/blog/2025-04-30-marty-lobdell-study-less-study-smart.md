@@ -50,13 +50,12 @@ When preparing for a test, we all have the same amount of time. How you use it i
 
 Start studying for a test right from the beginning of the quarter or semester using effective techniques. Ensure you get enough sleep and avoid cramming the night before the test!
 
-Print this page
+
 
 - - -
 
-Source: The video you shared is titled "Marty Lobdell - Study Less Study Smart" and it's from the YouTube channel PierceCollegeDist11¹. In this video, Marty Lobdell, who taught Psychology at Pierce College in Washington State for 40 years, shares his technique for studying smart¹. He developed this technique after observing students cramming for eight hours or more for a test without any improvement¹. The video is aimed at helping students improve their grades and information retention¹.
-
-* [Marty Lobdell - Study Less Study Smart - YouTube](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
-* [Matt DiMaio - How To Absorb Textbooks Like a Sponge- YouTube](https://www.youtube.com/watch?v=nqYmmZKY4sA&ab_channel=MattDiMaio)
+1. Source: The video you shared is titled "Marty Lobdell - Study Less Study Smart" and it's from the YouTube channel PierceCollegeDist11¹. In this video, Marty Lobdell, who taught Psychology at Pierce College in Washington State for 40 years, shares his technique for studying smart¹. He developed this technique after observing students cramming for eight hours or more for a test without any improvement¹. The video is aimed at helping students improve their grades and information retention¹.
+2. [Marty Lobdell - Study Less Study Smart - YouTube](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+3. [Matt DiMaio - How To Absorb Textbooks Like a Sponge- YouTube](https://www.youtube.com/watch?v=nqYmmZKY4sA&ab_channel=MattDiMaio)
 
 <!--EndFragment-->
