@@ -11,3 +11,5 @@ imageAlt: The periodic table of the elements.
 ## An excellent  [lecture](https://www.youtube.com/watch?v=ZJQjjBR6PbY&ab_channel=JeffersonLab)[ ](https://www.youtube.com/watch?v=ZJQjjBR6PbY&ab_channel=JeffersonLab) on the periodic table of elements.
 
 Speaker: Dr. Edward Murphy, University of Virginia
+
+* [G﻿reat book on the Periodic Table](https://www.goodreads.com/book/show/40554473-elemental)
