@@ -42,15 +42,24 @@ To use SQ3R:
 
 **Read:** Finally, read the chapter thoroughly. This will allow you to make connections and find deeper meaning within the subject matter. Discuss the "bigger picture" and the concepts you've learned. Share your knowledge with someone or even an empty chair. After all, we are storytellers.
 
-**Review:** Always revisit your work, especially before a test. If the teacher highlights something in class, make necessary adjustments. Connect this with what you've read in the textbook and noted during lectures. Avoid surprises by asking your instructor for help and attending office hours. Remember, "Teachers are driven by their students' success."
+**Review:** Always revisit your work, especially before a test. If the teacher highlights something in class, make necessary adjustments. Connect this with what you've read in the textbook and noted during lectures. Avoid surprises by asking your instructor for help and attending office hours. Remember, 
+
+> "Teachers are driven by their students' success."
+
+<!--StartFragment-->
+
+\
+👉﻿ [How To ABSORB TEXTBOOKS Like A Sponge](https://www.youtube.com/watch?v=nqYmmZKY4sA&ab_channel=MattDiMaio)
+
+<!--EndFragment-->
+
+
 
 ## 🧪 Test Preparation
 
 When preparing for a test, we all have the same amount of time. How you use it is what matters. It's about balancing opportunity cost and value. If you're involved in one activity, you can't participate in another. So, understand what's valuable.
 
 Start studying for a test right from the beginning of the quarter or semester using effective techniques. Ensure you get enough sleep and avoid cramming the night before the test!
-
-
 
 - - -
 
