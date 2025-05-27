@@ -252,6 +252,10 @@ section,
   margin-top: -20px;
 }
 
+.kiron-roy-link {
+  color: #fff27a;
+}
+
 .page-header {
   padding: 2em 0;
   background: var(--footer-nav);
