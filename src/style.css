@@ -373,8 +373,8 @@ section,
   grid-area: image;
   width: 100%;
   object-fit: cover;
-  box-shadow: 0 8px 9px -9px #838383cc;
-  border: #d6d6d6 solid 0.5px;
+  box-shadow: 0 2px 3px #0000000f;
+  border-radius: 5px;
 }
 .snippet__title {
   grid-area: title;
