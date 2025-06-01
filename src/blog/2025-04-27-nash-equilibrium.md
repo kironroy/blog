@@ -59,6 +59,6 @@ This interplay isn't unique to wildfires. Think about global efforts to combat c
 
 Out of curiosity, what do you think could be effective ways to realign these incentives? It's a complex challenge, but exploring solutions could spark some meaningful changes.
 
-Print this page
+
 
 <!--EndFragment-->
