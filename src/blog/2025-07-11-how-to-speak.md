@@ -8,17 +8,13 @@ tags:
 image: https://bostonglobalforum.org/mdi/wp-content/uploads/sites/15/winston-1.jpg
 imageAlt: Patrick Winston
 ---
-<!--StartFragment-->
+
 
 # How to Speak
 
 ### [H﻿ow to Speak, MIT OpenCourseWare](https://www.youtube.com/watch?v=Unzc731iCUY&list=WL&index=7&ab_channel=MITOpenCourseWare)
 
-<!--StartFragment-->
 
-# How to Speak
-
-### [H﻿ow to Speak, MIT OpenCourseWare](https://www.youtube.com/watch?v=Unzc731iCUY&list=WL&index=7&ab_channel=MITOpenCourseWare)
 
 ## How to Start a Talk
 
